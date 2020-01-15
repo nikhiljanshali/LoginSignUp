@@ -1,0 +1,29 @@
+﻿a {
+  cursor: pointer;
+}
+body {
+  background-image: radial-gradient(circle, #f4dcc9, #e7e1c6, #d6e6cb, #c4ead9, #b9ebeb);
+}
+label {
+  font-weight: 600;
+  font-variant: small-caps;
+}
+h3 {
+  font-weight: 600;
+  font-variant: small-caps;
+  color: #051937
+}
+#login .container #login-row #login-column #login-box {
+  padding: 20px;
+  border: 1px solid #9c9c9c;
+  background-color: #eaeaea;
+}
+#login .container #login-row #login-column #login-box #login-form {
+  padding: 20px;
+}
+#login .container #login-row #login-column #login-box #login-form #register-link {
+  margin-top: -85px;
+}
+.help-block{
+  color: #C34A36;
+}
